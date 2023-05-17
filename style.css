@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#container {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    
+
+}
+
+
+#title{
+    color:aliceblue;
+    font-size: 60px;
+}
+
+#clickme{
+    padding:17px 32px;
+    border-radius: 36px;
+    font-size: 17px;
+}
